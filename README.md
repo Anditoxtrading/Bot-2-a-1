@@ -71,4 +71,8 @@ token_telegram = "TU_TOKEN_DE_TELEGRAM"
 chat_id = "TU_CHAT_ID
 ```
 
+⚠️ Advertencia
 
+Este software es solo educativo.
+El trading con futuros implica alto riesgo financiero.
+Úsalo bajo tu propia responsabilidad.
