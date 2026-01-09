@@ -39,7 +39,7 @@ Sistema compuesto por **dos bots independientes** que trabajan en conjunto para 
 
 ## 🔧 Requisitos
 
-- Python **3.8+**
+- Python **3.4+**
 - Cuenta en **Bybit** (API habilitada)
 - Cuenta en **Binance**
 - Bot de **Telegram**
