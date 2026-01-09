@@ -15,7 +15,7 @@ Sistema compuesto por **dos bots independientes** que trabajan en conjunto para 
 ### 🔹 Bot 2:1 (Bybit)
 - Ejecuta operaciones en **Bybit Futures**
 - Ratio **1:2 (riesgo / ganancia)**
-- Stop Loss y Take Profit automáticos
+- Stop Loss automático
 - Protección progresiva de ganancias
 
 ### 🔹 Bot Monitor Oráculo (Binance)
@@ -49,12 +49,12 @@ Sistema compuesto por **dos bots independientes** que trabajan en conjunto para 
 
 ## 📥 Instalación
 
-### 1️⃣ Clonar repositorio
+### 1️⃣ Descargar el ZIP y descomprimir
 
-```bash
-git clone https://github.com/tu-usuario/bot-trading-2a1.git
-cd bot-trading-2a1
-```
+1. Haz clic en el botón **Code** del repositorio en GitHub  
+2. Selecciona **Download ZIP**  
+3. Descomprime el archivo en una carpeta de tu elección  
+
 
 2️⃣ Instalar dependencias
 ```bash
